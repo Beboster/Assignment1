@@ -1,2 +1,4 @@
 # Assignment1
-a new website that describes who I am
+This website was me very first one so I wanted to use it to describe who I am and just the king of person I am. It contains 5 pages that show each of my favorite things. First one is about the kind of video games that I like to play. The second one is about the anime I like to watch. Third one is about my favorite genre of movies and which ones I like the most. The last one is about cars and shows videos of the type of cars I like and what I would like to do if I had such car. 
+
+This is the link to the website http://roberto-website.s3-website-us-east-1.amazonaws.com, I had tried to use CloudFront as intsructed but as I emailed the professor. The site had said that I was not verified and could not use CloudFront yet. I am currently waiting to hear back from the customer support as I type this. 
